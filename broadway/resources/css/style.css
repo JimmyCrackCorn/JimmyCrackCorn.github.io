@@ -9,15 +9,17 @@ body {
 
 <img src="resources/images/understand.svg">
 */
-h1 {
-  background-image: image("resources/images/the-flatiron-building.png");
-}
+h1, .top {
+  background-image:url("../images/the-flatiron-building.png");
+  color: white;
+   }
 h2 {
   font-weight: bold;
   font-size: 32px;
   color: black;
 }
 
+}
 h3 {
   font-size: 23px;
   font-weight: bold;
@@ -32,6 +34,9 @@ a:link {
   color: white;
 }
 
+.bottom {
+  background-image:url("../images/the-flatiron-building.png");
+}
 
 .footer {
 text-align: left;
