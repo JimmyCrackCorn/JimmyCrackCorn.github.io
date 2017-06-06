@@ -1,0 +1,42 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: white;
+}
+/*.top {
+  background-image: image("./resources/images/the-flatiron-building.png");
+}
+
+<img src="resources/images/understand.svg">
+*/
+h1 {
+  background-image: image("resources/images/the-flatiron-building.png");
+}
+h2 {
+  font-weight: bold;
+  font-size: 32px;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color:black;
+}
+
+p {
+  font-size: 14px;
+}
+
+a:link {
+  color: white;
+}
+
+
+.footer {
+text-align: left;
+font-size: 11px;
+color:white;
+background-color: dimgray;
+
+}
